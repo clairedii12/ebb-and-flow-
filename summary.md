@@ -9,4 +9,4 @@ The article touches on many subjects such as, the web designer’s control over 
 Though Allsop touches on the idea of having control the only way to get there is if you let the flow follow the function, which means you need to be very flexible for whatever you are creating. Ebb and flow is the building blocks of a good website. 
 
 # About the Author 
-Claire DiIonno is currently a graqphic design student at Montserrat College of Art. Though she is a graphic design student her background is fine arts, speacializing in portrait drawing. Claire is originally from Vermont and likes mountains and maple syrup. This summary was written for a class assignment. 
+Claire DiIonno is currently a graphic design student at Montserrat College of Art. Though she is a graphic design student her background is fine arts, speacializing in portrait drawing. Claire is originally from Vermont and likes mountains and maple syrup. This summary was written for a class assignment. 
