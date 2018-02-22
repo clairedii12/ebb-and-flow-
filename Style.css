@@ -1,1 +1,34 @@
 
+#preview {max-width: 800px; 
+margin-left: auto;
+margin-right: auto;}
+h1 {
+text-align: center;
+color: darkturquoise;
+font-size: 4em;
+font-family: Sans-serif;
+text-shadow: 2px 4px 10px salmon;
+}
+.photo {text-align: center}
+.summary {color: black}
+.summary {font-family: Sans-serif} 
+.bio {
+font-family: Sans-serif; 
+color: black 
+font-family: Sans-serif;
+text-align: justify;
+line-height: 1.6;
+max-width: 398px;
+} 
+.summary {
+font-weight: 300
+font-style: oblique;
+line-height: 1.6;
+text-align: justify;
+}
+h2 {Color: salmon;
+font-family: Sans-serif;
+text-align: left; 
+font-size: 3em;
+text-shadow: 2px 4px 10px darkturquoise;
+}
